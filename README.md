@@ -1,1 +1,1 @@
-# Poisonous-Plants-DATA-STRUCTURE-MEDIUM
+# Poisonous-Plants-DATA-STRUCTURE-MEDIUM.This stack-based solution calculates how many days it takes for poisonous plants to stop dying by tracking when each plant dies relative to its left neighbor, where plants die if their left neighbor has less pesticide, efficiently determining the maximum days until no more plants die using a monotonic stack approach.
